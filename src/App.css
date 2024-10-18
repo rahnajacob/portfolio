@@ -330,3 +330,13 @@ Skills & About Me */
   line-height: 32px;
   color: var(--black);
 }
+
+/*about me section*/
+
+.about-section {
+  display: grid;
+  padding: 133.3px 85.3px;
+  align-items: center;
+  gap: 114.6px;
+  grid-template-columns: repeat(2, 1fr);
+}
