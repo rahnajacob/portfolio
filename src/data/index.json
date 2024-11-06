@@ -24,5 +24,28 @@
             "title": "Web Flow Development",
             "description": "Lorem ipsum dolor sit amet"
         }
+    ],
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./img/placeholder-image-1.png",
+            "title": "Snake Game",
+            "description": "Lorem ipsum dolor sit amet",
+            "link": "View in GitHub"
+        },
+        {
+            "id": "2",
+            "src": "./img/placeholder-image-2.png",
+            "title": "Much Ado About Mushrooms",
+            "description": "Lorem ipsum dolor sit amet",
+            "link": "View in GitHub"
+        },
+        {
+            "id": "3",
+            "src": "./img/placeholder-image.png",
+            "title": "Trail Talk",
+            "description": "Lorem ipsum dolor sit amet",
+            "link": "View in GitHub"
+        }
     ]
 }
